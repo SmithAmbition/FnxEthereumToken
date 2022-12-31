@@ -21,7 +21,7 @@
     "truffle-hdwallet-provider": "^1.0.5",
     "truffle-test-utils": "^0.1.0",
     "web3": "^1.2",
-    "web3-provider-engine": "^14.1.0",
+    "web3-provider-engine": "^16.0.4",
     "keythereum": "^1.0.4",
     "promisefy-util": "^1.2.0",
     "solidity-coverage": "^0.6.7"
